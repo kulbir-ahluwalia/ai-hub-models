@@ -1,7 +1,7 @@
 Pillow>10,<=11.3.0
 numpydoc==1.9.0
 gdown==5.2.2
-gitpython==3.1.57
+gitpython==3.2.1
 huggingface_hub>=0.34.0,<2.0 # 0.34 contains a fix for long windows paths
 ipython==8.12.3
 numpy<=2.4.4
